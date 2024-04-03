@@ -5,6 +5,8 @@ I'm currently working for a small game studio, working at home.
 
 **I'm looking for people to create a minecraft together**
 
+[![Imitater967's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imitater967)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Guidance
 
 ### Plugins
