@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Imitater967/Imitater967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Imitater967, i love working with people, I believe in team-work more than personal ability.
+I'm currently working for a small game studio, working at home.
 
-Here are some ideas to get you started:
+## Guidance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Plugins
+
+[Inventory System For VoxelPlay2](https://github.com/Imitater967/VPInventorySystem)
+
+### Games
+[Glorton Fight](https://github.com/Imitater967/GlortonFight)
+[Snow Island](https://github.com/Imitater967/SnowIsland)
+
+### Software
+[MiniDouyin-Backend](https://github.com/Imitater967/BackendDemo5)
+[IndieTeamup-Backend](https://github.com/Imitater967/IndieTeamUp)
+
+## Contact
+
+Please just send me a mail
+
+
+## About me
+
+Dropped from bachelor degree due to schizophrenia.
+Dream of creating an engine like netease's minecraft-studio.
+A professional game engineer, Experienced but not Talented.
