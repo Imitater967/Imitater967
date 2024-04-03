@@ -7,15 +7,15 @@ I'm currently working for a small game studio, working at home.
 
 ### Plugins
 
-[Inventory System For VoxelPlay2](https://github.com/Imitater967/VPInventorySystem)
+[Inventory System For VoxelPlay2](https://github.com/Imitater967/VPInventorySystem)  
 
 ### Games
-[Glorton Fight](https://github.com/Imitater967/GlortonFight)
-[Snow Island](https://github.com/Imitater967/SnowIsland)
+[Glorton Fight](https://github.com/Imitater967/GlortonFight)  
+[Snow Island](https://github.com/Imitater967/SnowIsland)  
 
 ### Software
-[MiniDouyin-Backend](https://github.com/Imitater967/BackendDemo5)
-[IndieTeamup-Backend](https://github.com/Imitater967/IndieTeamUp)
+[MiniDouyin-Backend](https://github.com/Imitater967/BackendDemo5)  
+[IndieTeamup-Backend](https://github.com/Imitater967/IndieTeamUp)  
 
 ## Contact
 
