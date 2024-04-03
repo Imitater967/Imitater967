@@ -24,6 +24,6 @@ Please just send me a mail
 
 ## About me
 
-Dropped from bachelor degree due to schizophrenia.
-Dream of creating an engine like netease's minecraft-studio.
-A professional game engineer, Experienced but not Talented.
+Dropped from bachelor degree due to schizophrenia.  
+Dream of creating an engine like netease's minecraft-studio.  
+A professional game engineer, Experienced but not Talented.  
