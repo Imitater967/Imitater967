@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I'm Imitater967, i love working with people, I believe in team-work more than personal ability.
-I'm currently working for a small game studio, working at home.
+I'm Imitater967, i love working with people, I believe in team-work more than personal ability.  
+I'm currently working for a small game studio, working at home.  
+
+**I'm looking for people to create a minecraft together**
 
 ## Guidance
 
@@ -19,7 +21,7 @@ I'm currently working for a small game studio, working at home.
 
 ## Contact
 
-Please just send me a mail
+Please just send me a mail  
 
 
 ## About me
