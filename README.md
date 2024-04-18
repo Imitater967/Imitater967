@@ -9,8 +9,9 @@ I'm currently working for a small game studio, working at home.
 
 ## Guidance
 
-### Plugins
+### Template
 
+[Unity MVP Example](https://github.com/Imitater967/MVPTutorial)  
 [Inventory System For VoxelPlay2](https://github.com/Imitater967/VPInventorySystem)  
 
 ### Games
