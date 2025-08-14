@@ -1,34 +1,12 @@
-## Hi there 👋
-
-I'm Imitater967, i love working with people, I believe in team-work more than personal ability.  
-I'm currently working for a small game studio, working at home.  
-
-**I'm looking for people to create a minecraft together**
-
 [![Imitater967's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imitater967)](https://github.com/anuraghazra/github-readme-stats)
 
-## Guidance
+# Welcome my friend.
 
-### Template
+ My name is Imitater967, or you can call me "The Disguiser".
+ Currently working at a moddable platform game with godot
 
-[Unity MVP Example](https://github.com/Imitater967/MVPTutorial)  
-[Inventory System For VoxelPlay2](https://github.com/Imitater967/VPInventorySystem)  
+# Working Experience 
 
-### Games
-[Glorton Fight](https://github.com/Imitater967/GlortonFight)  
-[Snow Island](https://github.com/Imitater967/SnowIsland)  
-
-### Software
-[MiniDouyin-Backend](https://github.com/Imitater967/BackendDemo5)  
-[IndieTeamup-Backend](https://github.com/Imitater967/IndieTeamUp)  
-
-## Contact
-
-Please just send me a mail  
-
-
-## About me
-
-Dropped from bachelor degree due to mental illness.  
-Dream of creating an engine like netease's minecraft-studio.  
-A professional game engineer, Experienced but not Talented.  
+## 对弈五千年
+[Steam](https://store.steampowered.com/app/3075740)
+Work as a developer responible for fix bugs, connect steam, etc.
